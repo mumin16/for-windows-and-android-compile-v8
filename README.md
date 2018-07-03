@@ -1,6 +1,8 @@
 # for-windows-and-android-compile-v8
 
-1-download depot_tools(https://storage.googleapis.com/chrome-infra/depot_tools.zip) and  extract to c:\ and then add c:\depot_tools to "system variables".
+0-download and install git
+
+1-download depot_tools and  extract to c:\ and then add c:\depot_tools to "system variables".
 
 2-following two entries add to "user variables" :
 
