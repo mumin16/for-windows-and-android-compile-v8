@@ -23,6 +23,10 @@ cd v8
 
 gclient sync
 
+for only android : 
+
+./build/install-build-deps.sh
+
 4-
 
 for android:
